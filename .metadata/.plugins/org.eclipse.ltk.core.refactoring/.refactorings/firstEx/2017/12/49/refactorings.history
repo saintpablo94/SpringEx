@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;fitstNum&apos; in &apos;com.javalec.ex.Calculation&apos; to &apos;firstNum&apos;&#x0A;- Original project: &apos;firstEx&apos;&#x0A;- Original element: &apos;com.javalec.ex.Calculation.fitstNum&apos;&#x0A;- Renamed element: &apos;com.javalec.ex.Calculation.firstNum&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;fitstNum&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java&lt;com.javalec.ex{Calculation.java[Calculation^fitstNum" name="firstNum" references="true" setter="false" stamp="1512794878835" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,23 @@
+package com.javalec.ex;
+
+import org.springframework.context.support.AbstractApplicationContext;
+import org.springframework.context.support.GenericXmlApplicationContext;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String configLoc = "classpath:applicationCTX.xml";
+		String configLoc1 = "classpath:applicationCTX1.xml";
+		
+		AbstractApplicationContext ctx = new GenericXmlApplicationContext(configLoc,configLoc1);
+		
+		Family family = ctx.getBean("family", Family.class);
+		System.out.println(family.getPapaName());
+		System.out.println(family.getMamaName());
+		System.out.println(family.getBrotherName());
+		System.out.println(family.getSisterName());
+		
+	}
+
+}

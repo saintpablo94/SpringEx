@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringEx04"/>
+<aop-project name="SpringEx05"/>
+<aop-project name="SpringEx06"/>
+<aop-project name="SpringEx07"/>
+<aop-project name="StringEx05_2"/>
+<aop-project name="firstEx"/>
+</aop-reference-model>

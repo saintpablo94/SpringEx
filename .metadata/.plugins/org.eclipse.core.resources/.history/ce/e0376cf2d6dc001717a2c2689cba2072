@@ -1,0 +1,15 @@
+import java.util.ArrayList;
+
+public class MyInfo {
+	
+	private String name;
+	private double height;
+	private double weight;
+	private ArrayList<String> hobby;
+	private BMICalculator bmiCalculator;
+	
+	public void getInfo() {
+		
+	}
+
+}

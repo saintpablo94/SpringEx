@@ -1,0 +1,7 @@
+package com.javalec.ex;
+
+public class pencil6BWithEraser extends pencil6B {
+
+
+
+}

@@ -1,0 +1,41 @@
+package com.javalec.ex;
+
+public class Calculation {
+	private int fitstNum;
+	private int secondNum;
+
+	public int getFitstNum() {
+		return fitstNum;
+	}
+
+	public void setFitstNum(int fitstNum) {
+		this.fitstNum = fitstNum;
+	}
+
+	public int getSecondNum() {
+		return secondNum;
+	}
+
+	public void setSecondNum(int secondNum) {
+		this.secondNum = secondNum;
+	}
+
+	public void add() {
+		System.out.println("add()");
+	}
+
+	public void substract() {
+
+		System.out.println("substract()");
+	}
+
+	public void multi() {
+
+		System.out.println("multi()");
+	}
+
+	public void divide() {
+		System.out.println("divide()");
+
+	}
+}

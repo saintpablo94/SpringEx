@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;secoundNum&apos; in &apos;com.javalec.ex.MyCalcurator&apos; to &apos;secondNum&apos;&#x0A;- Original project: &apos;SpringEx01&apos;&#x0A;- Original element: &apos;com.javalec.ex.MyCalcurator.secoundNum&apos;&#x0A;- Renamed element: &apos;com.javalec.ex.MyCalcurator.secondNum&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;secoundNum&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java&lt;com.javalec.ex{MyCalcurator.java[MyCalcurator^secoundNum" name="secondNum" references="true" setter="false" stamp="1512797537865" textual="false" version="1.0"/>
+</session>

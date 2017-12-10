@@ -1,0 +1,20 @@
+package com.javalec.ex;
+
+import org.springframework.context.support.GenericXmlApplicationContext;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		GenericXmlApplicationContext ctx = new GenericXmlApplicationContext();
+		
+		ctx.load("classpath:applicationCTX.xml");
+		System.out.println("before refresh");
+		ctx.refresh();
+		System.out.println("after refresh");
+		
+		System.out.println("before close");
+		ctx.close();
+		System.out.println("after close");
+	}
+
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.javalec.ex.Calcurator"/>
+<fullyQualifiedTypeName name="com.javalec.ex.MyCalcurator"/>
+<fullyQualifiedTypeName name="org.springframework.test.context.support.GenericXmlContextLoader"/>
+<fullyQualifiedTypeName name="com.javalec.ex.pencil6B"/>
+<fullyQualifiedTypeName name="com.javalec.ex.Pencil"/>
+<fullyQualifiedTypeName name="com.javalec.ex.Family"/>
+<fullyQualifiedTypeName name="com.javalec.ex.StudentInfo"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="com.javalec.ex.ApplicationConfig"/>
+<fullyQualifiedTypeName name="com.javalec.ex.Student"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.InitializingBean"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.DisposableBean"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
+</qualifiedTypeNameHistroy>
